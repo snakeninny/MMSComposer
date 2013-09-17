@@ -1,4 +1,3 @@
-THEOS_DEVICE_IP = 192.168.2.2
 export ARCHS = armv7
 export TARGET = iphone:latest:4.3
 

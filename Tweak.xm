@@ -1,4 +1,3 @@
-// This tweak hacks MobileSMS to always send an MMS with 1 sentence and 2 images, to show you how to compose an MMS using ChatKit
 #import "Tweak.h"
 
 #define IMAGE1 @"/Applications/MobilePhone.app/icon@2x~iphone.png"
