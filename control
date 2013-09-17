@@ -1,0 +1,10 @@
+Package: com.naken.mmscomposer
+Name: MMSComposer
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: One possible way of composing an MMS on iOS 6
+Maintainer: snakeninny
+Author: snakeninny
+Homepage: http://ying.lu
+Section: Tweaks
