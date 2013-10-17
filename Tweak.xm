@@ -28,7 +28,7 @@
 		html1 = [bridge _htmlForMessagePart:messagePart1];
 	}
 
-	if ([fileManager fileExistsAtPath:IMAGE1])
+	if ([fileManager fileExistsAtPath:IMAGE2])
 	{
 		data = [NSData dataWithContentsOfFile:IMAGE2];
 		mediaObject = [[CKMediaObjectManager sharedInstance] newMediaObjectForData:data mimeType:[[IMFileManager defaultHFSFileManager] MIMETypeOfPath:IMAGE2] exportedFilename:nil];
